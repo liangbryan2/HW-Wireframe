@@ -59,7 +59,7 @@ Learning how to change the size of elements and how to position them in relation
 
 # Author 
 <!-- make a link to the deployed site and have your name as the link -->
-[Bryan Liang](https://liangbryan2.github.io/HW-Wireframe/)
+[Bryan Liang](https://github.com/liangbryan2)
 
 # License
 Standard MIT License
